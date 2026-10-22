@@ -1,6 +1,6 @@
 module mytest1
 
-go 1.25.5
+go 1.26.10
 
 require (
 	github.com/francoispqt/onelog v0.0.0-20190306043706-8c2bb31b10a4
